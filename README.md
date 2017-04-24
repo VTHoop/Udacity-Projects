@@ -1,4 +1,4 @@
 # Udacity-Projects
-Data Analysis Projects for Udacity Nanodegree
+Projects for Udacity Data Analysis Nanodegree
 
-This is a test readme for learning Git.  I hope to use this as a portfolio for Data Analysis work.
+Portfolio of work showing scripting knowledge gained in Udacity certification program.
